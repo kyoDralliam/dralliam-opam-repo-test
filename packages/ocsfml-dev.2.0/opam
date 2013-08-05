@@ -9,5 +9,5 @@ remove: [
 ]
 depends: [ "ocamlfind" "ocamlbuildcpp"]
 depexts: [
-        [ ["ubuntu"] ["libsfml"] ]
+        [ ["debian"] ["libsfml"] ]
 ]
