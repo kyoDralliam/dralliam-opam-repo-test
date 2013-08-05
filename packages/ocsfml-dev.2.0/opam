@@ -8,6 +8,6 @@ remove: [
         [make "uninstall"]
 ]
 depends: [ "ocamlfind" "ocamlbuildcpp"]
-depext: [
+depexts: [
         [ ["ubuntu"] ["libsfml"] ]
 ]
